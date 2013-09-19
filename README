@@ -1,5 +1,6 @@
 
     ********************************************************************
+    Python 2.6.6 (r266:84292, Jul 10 2013, 22:43:23)
     Personal firewall software may warn about the connection IDLE
     makes to its subprocess using this computer's internal loopback
     interface.  This connection is not visible on any external
