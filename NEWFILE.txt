@@ -1,2 +1,3 @@
 test adding text to new file
 / 1 change hot-fix02
+/ 2 change hot-fix02
